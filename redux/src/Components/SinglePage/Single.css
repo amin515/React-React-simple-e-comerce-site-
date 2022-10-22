@@ -1,0 +1,26 @@
+
+.single{
+    border: 1px solid #ddd;
+}
+
+.single img{
+    border: 1px solid #ddd ;
+    
+}
+
+.product__name ul li{
+    list-style: none;
+    text-align: left;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.product__name ul{
+    padding: 0;
+}
+
+.product__name a{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: brown;
+}
